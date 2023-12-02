@@ -1,0 +1,1 @@
+executable('day2', './main.d')
